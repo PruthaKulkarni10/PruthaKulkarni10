@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prutha</h1>
-<h3 align="center">A passionate ML developer</h3>
+<h3 align="center">A passionate ML developer and aspiring front end developer</h3>
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **Outside of work, you'll definitely catch me watching a sitcom**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
